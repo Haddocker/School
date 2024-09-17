@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\bin\Debug\net8.0\number_seperater.exe
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\bin\Debug\net8.0\number_seperater.deps.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\bin\Debug\net8.0\number_seperater.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\bin\Debug\net8.0\number_seperater.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\bin\Debug\net8.0\number_seperater.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\obj\Debug\net8.0\number_seperater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\obj\Debug\net8.0\number_seperater.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\obj\Debug\net8.0\number_seperater.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\obj\Debug\net8.0\number_seperater.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\obj\Debug\net8.0\number_seperater.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\obj\Debug\net8.0\refint\number_seperater.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\obj\Debug\net8.0\number_seperater.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\obj\Debug\net8.0\number_seperater.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.6\number_seperater\number_seperater\obj\Debug\net8.0\ref\number_seperater.dll

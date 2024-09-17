@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\paper_saver\paper_saver\obj\Debug\net8.0\paper_saver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\paper_saver\paper_saver\obj\Debug\net8.0\paper_saver.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\paper_saver\paper_saver\obj\Debug\net8.0\paper_saver.AssemblyInfo.cs
+C:\Users\aria\source\repos\paper_saver\paper_saver\obj\Debug\net8.0\paper_saver.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\paper_saver\paper_saver\bin\Debug\net8.0\paper_saver.exe
+C:\Users\aria\source\repos\paper_saver\paper_saver\bin\Debug\net8.0\paper_saver.deps.json
+C:\Users\aria\source\repos\paper_saver\paper_saver\bin\Debug\net8.0\paper_saver.runtimeconfig.json
+C:\Users\aria\source\repos\paper_saver\paper_saver\bin\Debug\net8.0\paper_saver.dll
+C:\Users\aria\source\repos\paper_saver\paper_saver\bin\Debug\net8.0\paper_saver.pdb
+C:\Users\aria\source\repos\paper_saver\paper_saver\obj\Debug\net8.0\paper_saver.dll
+C:\Users\aria\source\repos\paper_saver\paper_saver\obj\Debug\net8.0\refint\paper_saver.dll
+C:\Users\aria\source\repos\paper_saver\paper_saver\obj\Debug\net8.0\paper_saver.pdb
+C:\Users\aria\source\repos\paper_saver\paper_saver\obj\Debug\net8.0\paper_saver.genruntimeconfig.cache
+C:\Users\aria\source\repos\paper_saver\paper_saver\obj\Debug\net8.0\ref\paper_saver.dll
