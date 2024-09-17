@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\bin\Debug\net8.0\random_number.exe
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\bin\Debug\net8.0\random_number.deps.json
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\bin\Debug\net8.0\random_number.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\bin\Debug\net8.0\random_number.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\bin\Debug\net8.0\random_number.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\obj\Debug\net8.0\random_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\obj\Debug\net8.0\random_number.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\obj\Debug\net8.0\random_number.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\obj\Debug\net8.0\random_number.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\obj\Debug\net8.0\random_number.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\obj\Debug\net8.0\refint\random_number.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\obj\Debug\net8.0\random_number.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\obj\Debug\net8.0\random_number.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 05\random_number\random_number\obj\Debug\net8.0\ref\random_number.dll
