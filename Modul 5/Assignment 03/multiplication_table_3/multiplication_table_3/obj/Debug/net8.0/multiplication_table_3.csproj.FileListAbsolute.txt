@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\bin\Debug\net8.0\multiplication_table_3.exe
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\bin\Debug\net8.0\multiplication_table_3.deps.json
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\bin\Debug\net8.0\multiplication_table_3.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\bin\Debug\net8.0\multiplication_table_3.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\bin\Debug\net8.0\multiplication_table_3.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\obj\Debug\net8.0\multiplication_table_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\obj\Debug\net8.0\multiplication_table_3.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\obj\Debug\net8.0\multiplication_table_3.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\obj\Debug\net8.0\multiplication_table_3.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\obj\Debug\net8.0\multiplication_table_3.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\obj\Debug\net8.0\refint\multiplication_table_3.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\obj\Debug\net8.0\multiplication_table_3.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\obj\Debug\net8.0\multiplication_table_3.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 03\multiplication_table_3\multiplication_table_3\obj\Debug\net8.0\ref\multiplication_table_3.dll

@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\bin\Debug\net8.0\countdown.exe
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\bin\Debug\net8.0\countdown.deps.json
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\bin\Debug\net8.0\countdown.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\bin\Debug\net8.0\countdown.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\bin\Debug\net8.0\countdown.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\obj\Debug\net8.0\countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\obj\Debug\net8.0\countdown.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\obj\Debug\net8.0\countdown.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\obj\Debug\net8.0\countdown.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\obj\Debug\net8.0\countdown.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\obj\Debug\net8.0\refint\countdown.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\obj\Debug\net8.0\countdown.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\obj\Debug\net8.0\countdown.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 02\countdown\countdown\obj\Debug\net8.0\ref\countdown.dll

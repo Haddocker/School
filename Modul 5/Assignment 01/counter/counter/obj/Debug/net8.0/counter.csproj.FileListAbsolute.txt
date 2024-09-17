@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\bin\Debug\net8.0\counter.exe
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\bin\Debug\net8.0\counter.deps.json
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\bin\Debug\net8.0\counter.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\bin\Debug\net8.0\counter.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\bin\Debug\net8.0\counter.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\obj\Debug\net8.0\counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\obj\Debug\net8.0\counter.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\obj\Debug\net8.0\counter.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\obj\Debug\net8.0\counter.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\obj\Debug\net8.0\counter.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\obj\Debug\net8.0\refint\counter.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\obj\Debug\net8.0\counter.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\obj\Debug\net8.0\counter.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 01\counter\counter\obj\Debug\net8.0\ref\counter.dll
