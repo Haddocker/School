@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\bin\Debug\net8.0\research.exe
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\bin\Debug\net8.0\research.deps.json
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\bin\Debug\net8.0\research.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\bin\Debug\net8.0\research.dll
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\bin\Debug\net8.0\research.pdb
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\obj\Debug\net8.0\research.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\obj\Debug\net8.0\research.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\obj\Debug\net8.0\research.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\obj\Debug\net8.0\research.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\obj\Debug\net8.0\research.dll
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\obj\Debug\net8.0\refint\research.dll
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\obj\Debug\net8.0\research.pdb
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\obj\Debug\net8.0\research.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 3\Find 5 mistakes about variables\research\research\obj\Debug\net8.0\ref\research.dll

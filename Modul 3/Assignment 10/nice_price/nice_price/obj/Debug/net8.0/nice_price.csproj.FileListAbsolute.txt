@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\bin\Debug\net8.0\nice_price.exe
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\bin\Debug\net8.0\nice_price.deps.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\bin\Debug\net8.0\nice_price.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\bin\Debug\net8.0\nice_price.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\bin\Debug\net8.0\nice_price.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\obj\Debug\net8.0\nice_price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\obj\Debug\net8.0\nice_price.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\obj\Debug\net8.0\nice_price.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\obj\Debug\net8.0\nice_price.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\obj\Debug\net8.0\nice_price.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\obj\Debug\net8.0\refint\nice_price.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\obj\Debug\net8.0\nice_price.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\obj\Debug\net8.0\nice_price.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.10\nice_price\nice_price\obj\Debug\net8.0\ref\nice_price.dll
