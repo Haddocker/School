@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\bin\Debug\net8.0\favourite_pizza.exe
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\bin\Debug\net8.0\favourite_pizza.deps.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\bin\Debug\net8.0\favourite_pizza.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\bin\Debug\net8.0\favourite_pizza.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\bin\Debug\net8.0\favourite_pizza.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\obj\Debug\net8.0\favourite_pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\obj\Debug\net8.0\favourite_pizza.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\obj\Debug\net8.0\favourite_pizza.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\obj\Debug\net8.0\favourite_pizza.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\obj\Debug\net8.0\favourite_pizza.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\obj\Debug\net8.0\refint\favourite_pizza.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\obj\Debug\net8.0\favourite_pizza.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\obj\Debug\net8.0\favourite_pizza.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.3\favourite_pizza\favourite_pizza\obj\Debug\net8.0\ref\favourite_pizza.dll

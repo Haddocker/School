@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\bin\Debug\net8.0\hello_you.exe
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\bin\Debug\net8.0\hello_you.deps.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\bin\Debug\net8.0\hello_you.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\bin\Debug\net8.0\hello_you.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\bin\Debug\net8.0\hello_you.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\obj\Debug\net8.0\hello_you.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\obj\Debug\net8.0\hello_you.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\obj\Debug\net8.0\hello_you.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\obj\Debug\net8.0\hello_you.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\obj\Debug\net8.0\hello_you.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\obj\Debug\net8.0\refint\hello_you.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\obj\Debug\net8.0\hello_you.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\obj\Debug\net8.0\hello_you.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.2\hello_you\obj\Debug\net8.0\ref\hello_you.dll
