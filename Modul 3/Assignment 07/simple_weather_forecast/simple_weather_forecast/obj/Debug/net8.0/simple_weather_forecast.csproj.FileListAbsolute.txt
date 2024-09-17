@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\bin\Debug\net8.0\simple_weather_forecast.exe
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\bin\Debug\net8.0\simple_weather_forecast.deps.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\bin\Debug\net8.0\simple_weather_forecast.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\bin\Debug\net8.0\simple_weather_forecast.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\bin\Debug\net8.0\simple_weather_forecast.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\obj\Debug\net8.0\simple_weather_forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\obj\Debug\net8.0\simple_weather_forecast.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\obj\Debug\net8.0\simple_weather_forecast.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\obj\Debug\net8.0\simple_weather_forecast.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\obj\Debug\net8.0\simple_weather_forecast.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\obj\Debug\net8.0\refint\simple_weather_forecast.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\obj\Debug\net8.0\simple_weather_forecast.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\obj\Debug\net8.0\simple_weather_forecast.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.7\simple_weather_forecast\simple_weather_forecast\obj\Debug\net8.0\ref\simple_weather_forecast.dll

@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\bin\Debug\net8.0\your_height.exe
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\bin\Debug\net8.0\your_height.deps.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\bin\Debug\net8.0\your_height.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\bin\Debug\net8.0\your_height.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\bin\Debug\net8.0\your_height.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\obj\Debug\net8.0\your_height.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\obj\Debug\net8.0\your_height.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\obj\Debug\net8.0\your_height.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\obj\Debug\net8.0\your_height.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\obj\Debug\net8.0\your_height.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\obj\Debug\net8.0\refint\your_height.dll
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\obj\Debug\net8.0\your_height.pdb
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\obj\Debug\net8.0\your_height.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 3\Assignment 3.9\your_height\your_height\obj\Debug\net8.0\ref\your_height.dll
