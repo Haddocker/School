@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\bin\Debug\net8.0\name_checker.exe
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\bin\Debug\net8.0\name_checker.deps.json
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\bin\Debug\net8.0\name_checker.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\bin\Debug\net8.0\name_checker.dll
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\bin\Debug\net8.0\name_checker.pdb
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\obj\Debug\net8.0\name_checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\obj\Debug\net8.0\name_checker.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\obj\Debug\net8.0\name_checker.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\obj\Debug\net8.0\name_checker.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\obj\Debug\net8.0\name_checker.dll
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\obj\Debug\net8.0\refint\name_checker.dll
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\obj\Debug\net8.0\name_checker.pdb
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\obj\Debug\net8.0\name_checker.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 4\Assignment 4.1\name_checker\name_checker\obj\Debug\net8.0\ref\name_checker.dll
