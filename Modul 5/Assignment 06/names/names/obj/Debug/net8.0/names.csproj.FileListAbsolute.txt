@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\bin\Debug\net8.0\names.exe
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\bin\Debug\net8.0\names.deps.json
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\bin\Debug\net8.0\names.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\bin\Debug\net8.0\names.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\bin\Debug\net8.0\names.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\obj\Debug\net8.0\names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\obj\Debug\net8.0\names.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\obj\Debug\net8.0\names.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\obj\Debug\net8.0\names.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\obj\Debug\net8.0\names.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\obj\Debug\net8.0\refint\names.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\obj\Debug\net8.0\names.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\obj\Debug\net8.0\names.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 06\names\names\obj\Debug\net8.0\ref\names.dll
