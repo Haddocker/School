@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\bin\Debug\net8.0\multiplication_table_userinput.exe
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\bin\Debug\net8.0\multiplication_table_userinput.deps.json
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\bin\Debug\net8.0\multiplication_table_userinput.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\bin\Debug\net8.0\multiplication_table_userinput.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\bin\Debug\net8.0\multiplication_table_userinput.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\obj\Debug\net8.0\multiplication_table_userinput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\obj\Debug\net8.0\multiplication_table_userinput.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\obj\Debug\net8.0\multiplication_table_userinput.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\obj\Debug\net8.0\multiplication_table_userinput.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\obj\Debug\net8.0\multiplication_table_userinput.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\obj\Debug\net8.0\refint\multiplication_table_userinput.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\obj\Debug\net8.0\multiplication_table_userinput.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\obj\Debug\net8.0\multiplication_table_userinput.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 09\multiplication_table_userinput\multiplication_table_userinput\obj\Debug\net8.0\ref\multiplication_table_userinput.dll

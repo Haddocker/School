@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\bin\Debug\net8.0\multiplication_table_1-10.exe
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\bin\Debug\net8.0\multiplication_table_1-10.deps.json
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\bin\Debug\net8.0\multiplication_table_1-10.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\bin\Debug\net8.0\multiplication_table_1-10.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\bin\Debug\net8.0\multiplication_table_1-10.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\obj\Debug\net8.0\multiplication_table_1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\obj\Debug\net8.0\multiplication_table_1-10.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\obj\Debug\net8.0\multiplication_table_1-10.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\obj\Debug\net8.0\multiplication_table_1-10.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\obj\Debug\net8.0\multiplication_table_1-10.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\obj\Debug\net8.0\refint\multiplication_table_1-10.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\obj\Debug\net8.0\multiplication_table_1-10.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\obj\Debug\net8.0\multiplication_table_1-10.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 08\multiplication_table_1-10\multiplication_table_1-10\obj\Debug\net8.0\ref\multiplication_table_1-10.dll
