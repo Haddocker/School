@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\bin\Debug\net8.0\99_bottles_of_beer.exe
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\bin\Debug\net8.0\99_bottles_of_beer.deps.json
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\bin\Debug\net8.0\99_bottles_of_beer.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\bin\Debug\net8.0\99_bottles_of_beer.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\bin\Debug\net8.0\99_bottles_of_beer.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\obj\Debug\net8.0\99_bottles_of_beer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\obj\Debug\net8.0\99_bottles_of_beer.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\obj\Debug\net8.0\99_bottles_of_beer.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\obj\Debug\net8.0\99_bottles_of_beer.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\obj\Debug\net8.0\99_bottles_of_beer.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\obj\Debug\net8.0\refint\99_bottles_of_beer.dll
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\obj\Debug\net8.0\99_bottles_of_beer.pdb
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\obj\Debug\net8.0\99_bottles_of_beer.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 5\Assignment 07\99_bottles_of_beer\99_bottles_of_beer\obj\Debug\net8.0\ref\99_bottles_of_beer.dll
