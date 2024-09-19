@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\bin\Debug\net8.0\count_from_0-9.exe
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\bin\Debug\net8.0\count_from_0-9.deps.json
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\bin\Debug\net8.0\count_from_0-9.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\bin\Debug\net8.0\count_from_0-9.dll
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\bin\Debug\net8.0\count_from_0-9.pdb
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\obj\Debug\net8.0\count_from_0-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\obj\Debug\net8.0\count_from_0-9.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\obj\Debug\net8.0\count_from_0-9.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\obj\Debug\net8.0\count_from_0-9.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\obj\Debug\net8.0\count_from_0-9.dll
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\obj\Debug\net8.0\refint\count_from_0-9.dll
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\obj\Debug\net8.0\count_from_0-9.pdb
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\obj\Debug\net8.0\count_from_0-9.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 5\Find 5 mistakes about Loops\count_from_0-9\count_from_0-9\obj\Debug\net8.0\ref\count_from_0-9.dll
