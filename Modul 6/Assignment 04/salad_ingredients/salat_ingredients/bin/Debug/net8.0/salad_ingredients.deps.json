@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "salad_ingredients/1.0.0": {
+        "runtime": {
+          "salad_ingredients.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "salad_ingredients/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

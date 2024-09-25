@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\bin\Debug\net8.0\salad_ingredients.exe
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\bin\Debug\net8.0\salad_ingredients.deps.json
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\bin\Debug\net8.0\salad_ingredients.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\bin\Debug\net8.0\salad_ingredients.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\bin\Debug\net8.0\salad_ingredients.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\obj\Debug\net8.0\salad_ingredients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\obj\Debug\net8.0\salad_ingredients.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\obj\Debug\net8.0\salad_ingredients.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\obj\Debug\net8.0\salad_ingredients.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\obj\Debug\net8.0\salad_ingredients.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\obj\Debug\net8.0\refint\salad_ingredients.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\obj\Debug\net8.0\salad_ingredients.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\obj\Debug\net8.0\salad_ingredients.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 04\salat_ingredients\salat_ingredients\obj\Debug\net8.0\ref\salad_ingredients.dll
