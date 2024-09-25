@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\bin\Debug\net8.0\different_sandwiches.exe
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\bin\Debug\net8.0\different_sandwiches.deps.json
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\bin\Debug\net8.0\different_sandwiches.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\bin\Debug\net8.0\different_sandwiches.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\bin\Debug\net8.0\different_sandwiches.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\obj\Debug\net8.0\different_sandwiches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\obj\Debug\net8.0\different_sandwiches.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\obj\Debug\net8.0\different_sandwiches.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\obj\Debug\net8.0\different_sandwiches.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\obj\Debug\net8.0\different_sandwiches.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\obj\Debug\net8.0\refint\different_sandwiches.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\obj\Debug\net8.0\different_sandwiches.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\obj\Debug\net8.0\different_sandwiches.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 01\different_sandwiches\different_sandwiches\obj\Debug\net8.0\ref\different_sandwiches.dll

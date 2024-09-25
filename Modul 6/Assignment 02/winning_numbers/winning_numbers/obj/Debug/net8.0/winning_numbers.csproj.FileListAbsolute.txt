@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\bin\Debug\net8.0\winning_numbers.exe
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\bin\Debug\net8.0\winning_numbers.deps.json
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\bin\Debug\net8.0\winning_numbers.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\bin\Debug\net8.0\winning_numbers.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\bin\Debug\net8.0\winning_numbers.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\obj\Debug\net8.0\winning_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\obj\Debug\net8.0\winning_numbers.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\obj\Debug\net8.0\winning_numbers.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\obj\Debug\net8.0\winning_numbers.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\obj\Debug\net8.0\winning_numbers.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\obj\Debug\net8.0\refint\winning_numbers.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\obj\Debug\net8.0\winning_numbers.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\obj\Debug\net8.0\winning_numbers.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 02\winning_numbers\winning_numbers\obj\Debug\net8.0\ref\winning_numbers.dll
