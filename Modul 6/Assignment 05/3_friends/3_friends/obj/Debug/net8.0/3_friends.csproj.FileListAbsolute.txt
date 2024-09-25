@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\bin\Debug\net8.0\3_friends.exe
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\bin\Debug\net8.0\3_friends.deps.json
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\bin\Debug\net8.0\3_friends.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\bin\Debug\net8.0\3_friends.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\bin\Debug\net8.0\3_friends.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\obj\Debug\net8.0\3_friends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\obj\Debug\net8.0\3_friends.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\obj\Debug\net8.0\3_friends.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\obj\Debug\net8.0\3_friends.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\obj\Debug\net8.0\3_friends.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\obj\Debug\net8.0\refint\3_friends.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\obj\Debug\net8.0\3_friends.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\obj\Debug\net8.0\3_friends.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 05\3_friends\3_friends\obj\Debug\net8.0\ref\3_friends.dll
