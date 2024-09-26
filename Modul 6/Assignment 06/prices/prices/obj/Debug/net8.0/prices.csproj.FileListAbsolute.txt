@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\obj\Debug\net8.0\prices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\obj\Debug\net8.0\prices.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\obj\Debug\net8.0\prices.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\obj\Debug\net8.0\prices.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\bin\Debug\net8.0\prices.exe
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\bin\Debug\net8.0\prices.deps.json
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\bin\Debug\net8.0\prices.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\bin\Debug\net8.0\prices.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\bin\Debug\net8.0\prices.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\obj\Debug\net8.0\prices.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\obj\Debug\net8.0\refint\prices.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\obj\Debug\net8.0\prices.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\obj\Debug\net8.0\prices.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 06\prices\prices\obj\Debug\net8.0\ref\prices.dll
