@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\bin\Debug\net8.0\bigger_than_10.exe
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\bin\Debug\net8.0\bigger_than_10.deps.json
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\bin\Debug\net8.0\bigger_than_10.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\bin\Debug\net8.0\bigger_than_10.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\bin\Debug\net8.0\bigger_than_10.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\obj\Debug\net8.0\bigger_than_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\obj\Debug\net8.0\bigger_than_10.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\obj\Debug\net8.0\bigger_than_10.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\obj\Debug\net8.0\bigger_than_10.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\obj\Debug\net8.0\bigger_than_10.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\obj\Debug\net8.0\refint\bigger_than_10.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\obj\Debug\net8.0\bigger_than_10.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\obj\Debug\net8.0\bigger_than_10.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 07\bigger_than_10\bigger_than_10\obj\Debug\net8.0\ref\bigger_than_10.dll
