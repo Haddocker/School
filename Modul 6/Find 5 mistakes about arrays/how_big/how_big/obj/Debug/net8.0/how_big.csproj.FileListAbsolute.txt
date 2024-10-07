@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\bin\Debug\net8.0\how_big.exe
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\bin\Debug\net8.0\how_big.deps.json
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\bin\Debug\net8.0\how_big.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\bin\Debug\net8.0\how_big.dll
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\bin\Debug\net8.0\how_big.pdb
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\obj\Debug\net8.0\how_big.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\obj\Debug\net8.0\how_big.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\obj\Debug\net8.0\how_big.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\obj\Debug\net8.0\how_big.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\obj\Debug\net8.0\how_big.dll
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\obj\Debug\net8.0\refint\how_big.dll
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\obj\Debug\net8.0\how_big.pdb
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\obj\Debug\net8.0\how_big.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Find 5 mistakes about arrays\how_big\how_big\obj\Debug\net8.0\ref\how_big.dll
