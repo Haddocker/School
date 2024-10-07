@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\bin\Debug\net8.0\smaller_than_5.exe
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\bin\Debug\net8.0\smaller_than_5.deps.json
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\bin\Debug\net8.0\smaller_than_5.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\bin\Debug\net8.0\smaller_than_5.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\bin\Debug\net8.0\smaller_than_5.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\obj\Debug\net8.0\smaller_than_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\obj\Debug\net8.0\smaller_than_5.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\obj\Debug\net8.0\smaller_than_5.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\obj\Debug\net8.0\smaller_than_5.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\obj\Debug\net8.0\smaller_than_5.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\obj\Debug\net8.0\refint\smaller_than_5.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\obj\Debug\net8.0\smaller_than_5.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\obj\Debug\net8.0\smaller_than_5.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 09\smaller_than_5\smaller_than_5\obj\Debug\net8.0\ref\smaller_than_5.dll
