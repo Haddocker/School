@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\bin\Debug\net8.0\letter_count.exe
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\bin\Debug\net8.0\letter_count.deps.json
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\bin\Debug\net8.0\letter_count.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\bin\Debug\net8.0\letter_count.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\bin\Debug\net8.0\letter_count.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\obj\Debug\net8.0\letter_count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\obj\Debug\net8.0\letter_count.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\obj\Debug\net8.0\letter_count.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\obj\Debug\net8.0\letter_count.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\obj\Debug\net8.0\letter_count.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\obj\Debug\net8.0\refint\letter_count.dll
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\obj\Debug\net8.0\letter_count.pdb
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\obj\Debug\net8.0\letter_count.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Assignment 10\letter_count\letter_count\obj\Debug\net8.0\ref\letter_count.dll
