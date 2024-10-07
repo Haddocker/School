@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\bin\Debug\net8.0\coffee_machine.exe
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\bin\Debug\net8.0\coffee_machine.deps.json
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\bin\Debug\net8.0\coffee_machine.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\bin\Debug\net8.0\coffee_machine.dll
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\bin\Debug\net8.0\coffee_machine.pdb
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\obj\Debug\net8.0\coffee_machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\obj\Debug\net8.0\coffee_machine.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\obj\Debug\net8.0\coffee_machine.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\obj\Debug\net8.0\coffee_machine.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\obj\Debug\net8.0\coffee_machine.dll
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\obj\Debug\net8.0\refint\coffee_machine.dll
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\obj\Debug\net8.0\coffee_machine.pdb
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\obj\Debug\net8.0\coffee_machine.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 6\Coffee Machine\coffee_machine\coffee_machine\obj\Debug\net8.0\ref\coffee_machine.dll
