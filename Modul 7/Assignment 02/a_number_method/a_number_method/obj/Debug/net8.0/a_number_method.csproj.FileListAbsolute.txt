@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\obj\Debug\net8.0\a_number_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\obj\Debug\net8.0\a_number_method.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\obj\Debug\net8.0\a_number_method.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\obj\Debug\net8.0\a_number_method.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\bin\Debug\net8.0\a_number_method.exe
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\bin\Debug\net8.0\a_number_method.deps.json
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\bin\Debug\net8.0\a_number_method.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\bin\Debug\net8.0\a_number_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\bin\Debug\net8.0\a_number_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\obj\Debug\net8.0\a_number_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\obj\Debug\net8.0\refint\a_number_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\obj\Debug\net8.0\a_number_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\obj\Debug\net8.0\a_number_method.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 02\a_number_method\a_number_method\obj\Debug\net8.0\ref\a_number_method.dll

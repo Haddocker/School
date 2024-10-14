@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\bin\Debug\net8.0\hello_world_method.exe
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\bin\Debug\net8.0\hello_world_method.deps.json
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\bin\Debug\net8.0\hello_world_method.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\bin\Debug\net8.0\hello_world_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\bin\Debug\net8.0\hello_world_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\obj\Debug\net8.0\hello_world_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\obj\Debug\net8.0\hello_world_method.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\obj\Debug\net8.0\hello_world_method.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\obj\Debug\net8.0\hello_world_method.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\obj\Debug\net8.0\hello_world_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\obj\Debug\net8.0\refint\hello_world_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\obj\Debug\net8.0\hello_world_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\obj\Debug\net8.0\hello_world_method.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 01\hello_world_method\hello_world_method\obj\Debug\net8.0\ref\hello_world_method.dll
