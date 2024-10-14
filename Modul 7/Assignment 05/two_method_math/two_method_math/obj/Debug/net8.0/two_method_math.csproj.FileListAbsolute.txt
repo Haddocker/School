@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\bin\Debug\net8.0\two_method_math.exe
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\bin\Debug\net8.0\two_method_math.deps.json
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\bin\Debug\net8.0\two_method_math.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\bin\Debug\net8.0\two_method_math.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\bin\Debug\net8.0\two_method_math.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\obj\Debug\net8.0\two_method_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\obj\Debug\net8.0\two_method_math.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\obj\Debug\net8.0\two_method_math.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\obj\Debug\net8.0\two_method_math.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\obj\Debug\net8.0\two_method_math.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\obj\Debug\net8.0\refint\two_method_math.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\obj\Debug\net8.0\two_method_math.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\obj\Debug\net8.0\two_method_math.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 05\two_method_math\two_method_math\obj\Debug\net8.0\ref\two_method_math.dll

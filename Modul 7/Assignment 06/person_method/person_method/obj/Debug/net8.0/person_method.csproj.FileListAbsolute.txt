@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\bin\Debug\net8.0\person_method.exe
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\bin\Debug\net8.0\person_method.deps.json
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\bin\Debug\net8.0\person_method.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\bin\Debug\net8.0\person_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\bin\Debug\net8.0\person_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\obj\Debug\net8.0\person_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\obj\Debug\net8.0\person_method.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\obj\Debug\net8.0\person_method.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\obj\Debug\net8.0\person_method.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\obj\Debug\net8.0\person_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\obj\Debug\net8.0\refint\person_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\obj\Debug\net8.0\person_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\obj\Debug\net8.0\person_method.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 06\person_method\person_method\obj\Debug\net8.0\ref\person_method.dll
