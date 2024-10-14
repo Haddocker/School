@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\bin\Debug\net8.0\subtract_method.exe
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\bin\Debug\net8.0\subtract_method.deps.json
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\bin\Debug\net8.0\subtract_method.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\bin\Debug\net8.0\subtract_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\bin\Debug\net8.0\subtract_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\obj\Debug\net8.0\subtract_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\obj\Debug\net8.0\subtract_method.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\obj\Debug\net8.0\subtract_method.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\obj\Debug\net8.0\subtract_method.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\obj\Debug\net8.0\subtract_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\obj\Debug\net8.0\refint\subtract_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\obj\Debug\net8.0\subtract_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\obj\Debug\net8.0\subtract_method.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 04\subtract_method\subtract_method\obj\Debug\net8.0\ref\subtract_method.dll
