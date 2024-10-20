@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "light_regulator", "light_regulator\light_regulator.csproj", "{09242E76-8FC4-4355-98BC-3714D60DC922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09242E76-8FC4-4355-98BC-3714D60DC922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09242E76-8FC4-4355-98BC-3714D60DC922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09242E76-8FC4-4355-98BC-3714D60DC922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09242E76-8FC4-4355-98BC-3714D60DC922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF289130-A725-4E56-B569-46618F25E1F4}
+	EndGlobalSection
+EndGlobal

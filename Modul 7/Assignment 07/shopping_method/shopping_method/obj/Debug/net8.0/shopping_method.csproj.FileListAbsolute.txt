@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\bin\Debug\net8.0\shopping_method.exe
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\bin\Debug\net8.0\shopping_method.deps.json
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\bin\Debug\net8.0\shopping_method.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\bin\Debug\net8.0\shopping_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\bin\Debug\net8.0\shopping_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\obj\Debug\net8.0\shopping_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\obj\Debug\net8.0\shopping_method.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\obj\Debug\net8.0\shopping_method.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\obj\Debug\net8.0\shopping_method.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\obj\Debug\net8.0\shopping_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\obj\Debug\net8.0\refint\shopping_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\obj\Debug\net8.0\shopping_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\obj\Debug\net8.0\shopping_method.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 07\shopping_method\shopping_method\obj\Debug\net8.0\ref\shopping_method.dll
