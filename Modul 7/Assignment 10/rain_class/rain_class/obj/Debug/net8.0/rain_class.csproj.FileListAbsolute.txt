@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\obj\Debug\net8.0\rain_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\obj\Debug\net8.0\rain_class.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\obj\Debug\net8.0\rain_class.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\obj\Debug\net8.0\rain_class.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\bin\Debug\net8.0\rain_class.exe
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\bin\Debug\net8.0\rain_class.deps.json
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\bin\Debug\net8.0\rain_class.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\bin\Debug\net8.0\rain_class.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\bin\Debug\net8.0\rain_class.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\obj\Debug\net8.0\rain_class.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\obj\Debug\net8.0\refint\rain_class.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\obj\Debug\net8.0\rain_class.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\obj\Debug\net8.0\rain_class.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 10\rain_class\rain_class\obj\Debug\net8.0\ref\rain_class.dll

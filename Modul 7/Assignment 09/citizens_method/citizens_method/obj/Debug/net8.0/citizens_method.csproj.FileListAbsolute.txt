@@ -1,0 +1,14 @@
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\bin\Debug\net8.0\citizens_method.exe
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\bin\Debug\net8.0\citizens_method.deps.json
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\bin\Debug\net8.0\citizens_method.runtimeconfig.json
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\bin\Debug\net8.0\citizens_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\bin\Debug\net8.0\citizens_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\obj\Debug\net8.0\citizens_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\obj\Debug\net8.0\citizens_method.AssemblyInfoInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\obj\Debug\net8.0\citizens_method.AssemblyInfo.cs
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\obj\Debug\net8.0\citizens_method.csproj.CoreCompileInputs.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\obj\Debug\net8.0\citizens_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\obj\Debug\net8.0\refint\citizens_method.dll
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\obj\Debug\net8.0\citizens_method.pdb
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\obj\Debug\net8.0\citizens_method.genruntimeconfig.cache
+C:\Users\aria\source\repos\Modul 7\Assignment 09\citizens_method\citizens_method\obj\Debug\net8.0\ref\citizens_method.dll
